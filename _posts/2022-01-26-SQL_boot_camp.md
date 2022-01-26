@@ -22,4 +22,12 @@ Back-end web Developer의 자질을 갖추기 위해서는 필요하다.
 
 ![sadsadsdadsa](https://user-images.githubusercontent.com/96931603/151162428-cdf41818-cb8d-4448-b3d7-ceeab7abc68a.png)
 
+가동 코드
+
+``` SQL
+
+SELECT * FROM film;
+
+```
+
 [TOSS 후원](https://toss.me/xenco){: .btn .btn--info} [카카오페이 후원](https://qr.kakaopay.com/FUkkd3RsA){: .btn .btn--warning}
