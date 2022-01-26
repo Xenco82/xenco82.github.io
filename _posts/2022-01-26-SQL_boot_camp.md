@@ -24,7 +24,7 @@ Back-end web Developer의 자질을 갖추기 위해서는 필요하다.
 
 가동 코드
 
-``` SQL
+``` sql
 
 SELECT * FROM film;
 
