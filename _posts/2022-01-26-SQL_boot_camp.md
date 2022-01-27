@@ -1,7 +1,7 @@
 ---
 
 laout: post
-title: SQL_boot_camp - Day1
+title: SQL_boot_camp - Day 1
 categories: SQL_boot_camp
 tag: [study]
 toc: true
